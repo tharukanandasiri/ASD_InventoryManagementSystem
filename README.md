@@ -39,7 +39,7 @@ Retrieve detailed information about each product.
 ## Contributors
 
 S P Ashen Samudita (22UG1-0345)
-Samith Shashika 922UG1-0495)
 S.G.T.A.Anusarni (22ug1-0530)
 Tharuka Nandasiri (22ug1-0788)
+Samith Shashika (22UG1-0495)
 U G L Cheshani (22ug1-0880)
