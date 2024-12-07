@@ -1,11 +1,10 @@
-**********Inventory Management System**********
+# Inventory Management System
 
-**  ++ Description ++  **
+## Description
 
 The Inventory Management System is designed to streamline the process of managing inventory for businesses. It allows suppliers to manage product listings, maintain stock levels, and process orders effectively. This system ensures that businesses can track product availability, manage supplier details, and handle orders efficiently.
 
-
-**  ++ Key Entities ++  **
+## Key Entities
 
 Inventory:
 Represents the overall stock of products available for ordering and management.
@@ -37,6 +36,7 @@ Product Management:
 Update stock levels for individual products.
 Retrieve detailed information about each product.
 
+## Contributors
 
-**  ++ Contributors ++  **
-Ashen Samuditha
+Ashen Samuditha  
+Tharuka Nandasiri (22ug1-0788)
